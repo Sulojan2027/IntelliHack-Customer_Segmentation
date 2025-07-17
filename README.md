@@ -68,6 +68,10 @@ Using clustering algorithms, we aimed to find distinct patterns and classify cus
 - Each cluster was mapped to a business-meaningful segment.
 - Insights can support personalized marketing and customer targeting strategies.
 
+- ### 🖼️ PCA Cluster Visualization
+
+![Customer Segmentation PCA](output8.png)
+
 ---
 
 ## 👥 Team: The Code Rushers
