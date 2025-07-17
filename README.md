@@ -61,7 +61,7 @@ Using clustering algorithms, we aimed to find distinct patterns and classify cus
 
 - ### 🖼️ PCA Cluster Visualization
 
-![Customer Segmentation PCA](output8.png)
+![Customer Segmentation PCA](Result.png)
 
 ---
 
