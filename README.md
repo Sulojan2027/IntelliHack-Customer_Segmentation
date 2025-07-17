@@ -53,15 +53,6 @@ Using clustering algorithms, we aimed to find distinct patterns and classify cus
 
 ---
 
-## 📂 Repository Structure
-'''
-├── customer_segmentation.ipynb # Complete Jupyter Notebook with code & analysis
-├── Q2.pdf # Final report submitted for the hackathon
-├── README.md # Project description
-'''
-
----
-
 ## 📈 Results
 
 - **K-Means** performed best with a Silhouette Score of **0.613** and clear visual cluster separation.
