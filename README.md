@@ -54,9 +54,11 @@ Using clustering algorithms, we aimed to find distinct patterns and classify cus
 ---
 
 ## 📂 Repository Structure
+'''
 ├── customer_segmentation.ipynb # Complete Jupyter Notebook with code & analysis
 ├── Q2.pdf # Final report submitted for the hackathon
 ├── README.md # Project description
+'''
 
 ---
 
